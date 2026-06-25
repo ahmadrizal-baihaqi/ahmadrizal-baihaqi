@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @keyframes wave {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+    .icon-wave {
+      animation: wave 1.8s ease-in-out infinite;
+      animation-delay: 0.55s;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .icon-container {
+      transition: transform 0.2s ease-in-out;
+    }
+    .icon-container:hover {
+      transform: scale(1.1);
+      transform-origin: center;
+    }
+  </style>
+  <g class="icon-wave">
+    <g class="icon-container">
+      <!-- Outer glowing border -->
+      <rect x="2" y="2" width="44" height="44" rx="12" fill="none" stroke="#646CFF" stroke-width="1.5" filter="url(#glow)" opacity="0.6"/>
+      <!-- Sharp outer border -->
+      <rect x="2" y="2" width="44" height="44" rx="12" fill="none" stroke="#646CFF" stroke-width="1.5"/>
+      <!-- Inner icon -->
+      <svg x="12" y="12" width="24" height="24" viewBox="0 0 128 128" overflow="visible">
+        <path fill="#006bff" d="M128 3.83 48.72 22.547 36.977 124.17ZM39.464 24.264 0 33.167l35.658 90.604Z"/>
+      </svg>
+    </g>
+  </g>
+</svg>

@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya **Ahmad Rizal Baihaqi**, biasa dipanggil **Rizal** atau **Jell**. Sebagai seorang **Fullstack Developer Enthusiast**, saya memiliki passion besar dalam merancang dan membangun aplikasi web yang interaktif, bersih, dan berkinerja tinggi. Bagi saya, pemrograman adalah seni memecahkan masalah nyata lewat baris kode yang efisien dan desain antarmuka yang intuitif.
+Halo! Saya **Ahmad Rizal Baihaqi**, biasa dipanggil **Rizal**. Sebagai seorang **Fullstack Developer Enthusiast**, saya memiliki passion besar dalam merancang dan membangun aplikasi web yang interaktif, bersih, dan berkinerja tinggi. Bagi saya, pemrograman adalah seni memecahkan masalah nyata lewat baris kode yang efisien dan desain antarmuka yang intuitif.
 
 Saya selalu bersemangat untuk mempelajari teknologi baru, berkolaborasi dalam proyek-proyek menantang, dan mengubah konsep kreatif menjadi produk digital yang bernilai. Di luar urusan koding dan menelusuri bug, saya biasanya mengisi waktu dengan mencari inspirasi baru, mengulik setup teknologi terbaru, atau sekadar menikmati secangkir kopi hangat. *Let's connect and build something extraordinary!*
 
